@@ -4,9 +4,6 @@
     <currentScheme>IDE</currentScheme>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="Kotlin2JsCompilerArguments">
-    <option name="sourceMapEmbedSources" />
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
