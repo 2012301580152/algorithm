@@ -35,6 +35,8 @@ public class Topological {
         String separator = "/";
         SymbolDigraph sg = new SymbolDigraph(filename, separator);
 
+
+
         Topological top = new Topological(sg.G());
 
         for (int v : top.order()) {
